@@ -2,7 +2,6 @@
   width: 70%;
   min-height: 600px;
   overflow-y: scroll;
-  /* background-color: aquamarine; */
 }
 .tech_skill_codeblack{
     width: 80%;
@@ -23,3 +22,18 @@
 .Codecopm{
     padding: 20px;
 }
+/* @media only screen and (min-width: 650px) {
+    .tech_skills_code {
+        width: 100% !important;
+        min-height: 600px;
+        overflow-y: scroll;
+      }
+      .tech_skill_codeblack{
+          width: 80%;
+          padding: 10px;
+          height: 250px;
+          line-height: 40px;
+          padding: 10px;
+      
+      }
+} */

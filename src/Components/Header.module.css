@@ -3,6 +3,7 @@
     width: 100%;
     color: white;
     line-height: 60px;
+    position: sticky;
 }
 .tech_code_title{
     font-size: x-large;

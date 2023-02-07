@@ -11,8 +11,8 @@ function App() {
     <div className={css.App}>
        <Header />
        <div className={css.tech_skills_head}>
-        <Codecopm />
-        <HeadTitle />
+       <HeadTitle />
+       <Codecopm />
        </div>
     </div>
   )

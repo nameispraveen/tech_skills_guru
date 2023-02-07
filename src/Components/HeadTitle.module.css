@@ -1,8 +1,6 @@
 .tech_skills_head{
     height: auto;
     width: 30%;
-    
-    /* background-color: bisque; */
 }
 .tech_skills_img{
     padding-left: 30%;
@@ -15,3 +13,20 @@
 .tech_skills_name{
     padding-left: 35%;
 }
+/* @media only screen and (max-width: 650px) {
+    .tech_skills_head{
+        height: auto;
+        width: 100%;
+    }
+    .tech_skills_img{
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 10%;
+        width: 150px;
+        border-radius: 150%;
+        height: 150px;
+    }
+    .tech_skills_name{
+        padding-left: 35%;
+    }
+} */
