@@ -1,0 +1,25 @@
+.tech_skills_code {
+  width: 70%;
+  min-height: 600px;
+  overflow-y: scroll;
+  /* background-color: aquamarine; */
+}
+.tech_skill_codeblack{
+    width: 80%;
+    padding: 10px;
+    height: 250px;
+    line-height: 40px;
+    padding: 10px;
+
+}
+.tech_skills_codediv{
+    border-color: aqua;
+    width: 98%;
+    height: 250px;
+    overflow-y: scroll;
+    background-color: whitesmoke;
+    color: black;
+}
+.Codecopm{
+    padding: 20px;
+}

@@ -1,0 +1,11 @@
+.tech_code_header{
+    height:80px;
+    width: 100%;
+    color: white;
+    line-height: 60px;
+}
+.tech_code_title{
+    font-size: x-large;
+    font-family:cursive;
+    float:  left;
+}
